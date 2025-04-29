@@ -40,7 +40,7 @@
 ---
 
 ### 😄 Pronouns
-- she/her (or just call me **Icarus** or 🌼 if you like)
+-  Icarus(or just call me **Ica** or 🌼 if you like)
 
 ---
 
