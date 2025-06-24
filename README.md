@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Icarus;Code+is+my+language+of+expression.;Let's+build+something+meaningful+together!;Welcome+to+my+GitHub+space+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
-## 👋 Hi, I’m @hua7hua7
+## 👋 Hi, I’m @Icarus-Yu
 
 🌼 Hey! I'm **Icarus**, a CS student from Wuhan University, passionate about blending code with soul.  
 🚀 I love diving deep into systems, compilers, and all the logic that makes machines tick.
@@ -35,12 +35,12 @@
 ---
 
 ### 📫 How to reach me
-- Emai: [hualuck7@gmail.com]  
+- Email: [hualuck7@gmail.com](mailto:hualuck7@gmail.com)
 
 ---
 
 ### 😄 Pronouns
--  Icarus(or just call me **Ica** or 🌼 if you like)
+- Icarus (or just call me **Ica** or 🌼 if you like)
 
 ---
 
@@ -52,10 +52,10 @@
 
 ### 📊 GitHub Stats
 
-![hua7hua7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hua7hua7&show_icons=true&theme=tokyonight&hide=stars&count_private=true)
+![Icarus-Yu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Icarus-Yu&show_icons=true&theme=tokyonight&hide=stars&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hua7hua7&layout=compact&theme=tokyonight&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Icarus-Yu&layout=compact&theme=tokyonight&hide_progress=false)
 
 ---
 
-_✨ hua7hua7/hua7hua7 is a ✨ special ✨ repo — just like you’re reading this for a reason._
+_✨ `Icarus-Yu/Icarus-Yu` is a ✨ special ✨ repo — just like you’re reading this for a reason._
