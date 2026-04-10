@@ -52,10 +52,9 @@
 
 ### 📊 GitHub Stats
 
-![Icarus-Yu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Icarus-Yu&show_icons=true&theme=tokyonight&hide=stars&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Icarus-Yu&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Icarus-Yu&layout=compact&theme=tokyonight&hide_progress=false)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Icarus-Yu&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1800)
 ---
 
 _✨ `Icarus-Yu/Icarus-Yu` is a ✨ special ✨ repo — just like you’re reading this for a reason._
